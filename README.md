@@ -11,12 +11,12 @@ This project focuses on building a clean UI layout and improving frontend develo
 
 ## 🚀 Live Demo
 🔗 Netlify - Later
-🔗 (https://NeoDevs01.github.io/Netflix-Clone/)
+🔗 (https://NeoDevs01.github.io/netflix-clone/)
 
 ---
 
 ## 📂 GitHub Repository
-🔗 https://github.com/NeoDevs01/Netflix-Clone
+🔗 https://github.com/NeoDevs01/netflix-clone
 
 ---
 
