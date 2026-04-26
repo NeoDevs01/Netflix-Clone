@@ -10,8 +10,8 @@ This project focuses on building a clean UI layout and improving frontend develo
 ---
 
 ## 🚀 Live Demo
-🔗 Netlify - [Later](https://69eddb1cbd5d650915c1dfee--bejewelled-flan-c99601.netlify.app/)
-🔗 Github Pages - (https://NeoDevs01.github.io/netflix-clone/)
+🔗 Netlify - [Netlify Pages](https://69eddb1cbd5d650915c1dfee--bejewelled-flan-c99601.netlify.app/)
+🔗 Github Pages - [Github Pages](https://NeoDevs01.github.io/netflix-clone/)
 
 ---
 
